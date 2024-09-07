@@ -2,7 +2,7 @@
 >[!IMPORTANT]
 >**Since the documents is in Turkish, the prompts used are also in Turkish.**
 
-## Dividing the pdfs to chunks
+## Dividing the PDFs to Chunks
 Using Gemini to create a Turkish dataset:
 1. We first divide the content from the PDF into chunks, allowing Gemini to generate questions for each chunk.
 2. One by one, we sent each question and the relevant chunk back to Gemini and asked it to answer that question. 
@@ -24,7 +24,7 @@ Since LLMs do not always produce responses in the same format, we could not rece
 >
 >I hope it was useful.
 
-**Another response format can be:**
+**Another Response Format can be:**
 
 >Of course I can make it in the format you want.
 >
